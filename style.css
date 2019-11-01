@@ -581,7 +581,7 @@ a:hover{
 	margin-top: 1.8%;
 	
 }
-@media (min-width: 100px) and (max-width: 900px){
+@media screen and (max-width: 900px){
 	.info{
 	display: none;
     }
