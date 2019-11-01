@@ -1,0 +1,576 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: Times New Roman;
+	font-weight: bold;
+
+}
+.logo{
+	padding-top: 23px;
+	padding-left: 20px;
+	color: #09B2FB;
+	font-size: 43px;
+	display: inline-block;
+	position: absolute;
+
+}
+.info{
+	width: 100%;
+	height: 100px;
+	
+}
+.textinfo{
+	margin-top: 10px;
+	margin-left: 480px;
+	width: 60%;
+	height: 30px;
+	display: flex;
+	position: absolute;
+	
+}
+
+.infotext{
+	padding-left: 14px;
+	color: #696969;
+	font-size: 20px;
+	padding-right: 100px;
+}
+.infotext1{
+	width: 80%;
+	height: 38px;
+	position: absolute;
+	margin-top: 40px;
+}
+.imgnav{
+	height: 40px;
+	width: 45px;
+}
+.phone{
+	padding-top: 10px;
+	position: absolute;
+}
+.email{
+	padding-left: 200px;
+	padding-bottom: 20px;
+	display: inline-block;
+}
+.navcontent1{
+	position: absolute;
+}
+.me{
+	width: 220px;
+	margin-top: 8px;
+	position: absolute;
+}
+.navbar{
+	width: 100%;
+	height: 70px;
+	background: #932290;
+}
+.gypersil{
+	padding-top: 25px;	
+	width: 97%;	
+	height: 10px;
+	padding-left: 40px;	
+}
+.gypersila{
+	color: #ffffff;
+	text-decoration: none;
+	padding-left: 9%;
+	position: relative;
+}
+.gypersila:nth-child(1){
+	padding-left: 0;
+}
+.imgman{
+	height: 50%;
+ 
+}
+.man{
+	width: 100%;
+	position: absolute;
+}
+.teimg{
+	margin-top: 23%;
+	margin-left: 14%;
+	font-size: 50px;
+	position: absolute;
+	color: #ffffff;
+	text-align: center;
+}
+.onas{
+  width: 100%;
+  height: 800px;	
+ 
+}
+.fotologo{
+	width: 40%;	
+    
+    padding-top: 7%;
+	padding-left: 9%;
+	padding-bottom: 50%;
+
+}
+.honas{
+	font-size: 60px;
+	color: #932290;
+	display: inline-block;
+	padding-left: 55%;
+	position: absolute;
+	padding-top: 9%;	
+}
+.onast{
+	color: #707070;
+	font-size: 20px;
+	padding-left: 55%;
+	padding-top: 20%;
+	position: absolute;
+}
+.achivmnents{
+	background-image: url('achievements-bg.jpg');
+	height: 1070px;
+}
+.cel{
+	background: rgba(147, 34, 144, 0.8);
+	width: 100%;
+	height: 570px;
+	clear: both;
+}
+.celh1{
+	padding-top: 2%;
+	font-size: 50px;
+	color: #ffffff;
+	text-align: center;
+}
+.celhi{
+	padding-top: 2%;
+	font-size: 50px;
+	color: #932290;
+	text-align: center;
+}
+.celp1{
+	color: #ffffff;
+	font-size: 26px;
+	padding-left: 4%;
+	padding-top: 1%;
+	padding-right: 4%;
+}
+.celpdv{
+	color: #ffffff;
+	font-size: 26px;
+	padding-left: 4%;
+	padding-top: 1%;
+	padding-right: 4%;
+	text-align: center;
+}
+.cel1{
+	background: rgba(108, 189, 78, 0.8);
+	height: 500px;
+	clear: both;
+}
+.celp2{
+	background-image: url('teacher-bg-2.jpg');
+}
+.celp3{
+	background: rgba(252, 127, 12, 0.8);
+	height: 750px;	
+}
+.galeryimg{
+	border-radius: 20px;
+	width: 45%;
+	margin-top: 1%;
+	margin-left: 3.5%;
+}
+.button1{
+	margin-top: 40px;
+	margin-left: 46%;
+	width: 100px;
+	height: 50px;
+	background:#932290;
+	color: #ffffff;
+	border-radius: 30px;
+}
+.otzyv{
+	margin-top: 55%;
+	width: 100%;
+	height: 500px;
+}
+.tt{
+	color: #707070;
+	font-size: 20px;	
+	padding-top: 1%;
+	padding-left: 3%;
+	padding-right: 3%;
+}
+.podvalfon{
+	background-image: url('teacher-bg-2.jpg');
+	width: 100%;
+	height: 500px;
+}
+.podval{
+	background: rgba(7, 143, 203, 0.8);
+	width: 100%;
+	height: 500px;
+}
+.logopodv{
+	width: 35%;
+	height:10%;
+	background: #ffffff;
+	margin-top: 9%;
+	margin-left: 4%;
+	position: absolute;
+	
+}
+.logotext{
+	color: #09B2FB;
+	font-size: 43px;
+	margin-top: 1%;
+	margin-left: 2%;
+	position: absolute;
+}
+.podvaltext{
+	color: #ffffff;
+	font-size: 20px;
+}
+.ptpadding{
+	padding-top: 14%;
+	padding-left: 4%;
+}
+.doplink{
+	padding-left: 75%;
+	position: absolute;
+	font-size: 50px;
+	color: #ffffff;	
+}
+.linkpodval{
+	color: #ffffff;
+	padding-left: 50%;
+	line-height: 30px;
+
+}
+a{
+	color: #ffffff;
+	text-decoration: none;
+}
+.podvalfon1{
+	background-image: url('teacher-bg-2.jpg');
+	width: 100%;
+	height: 350px;
+}
+.podval1{
+	background: rgba(7, 143, 203, 0.8);
+	width: 100%;
+	height: 350px;
+}
+.linknav{
+	color: #ffffff;
+	padding-left: 42%;
+	padding-top: 5%;
+}
+.galeryfoto{
+	width: 100%;
+	height: 2000px;
+}
+.galeryimg{
+	border-radius: 20px;
+	display: inline-block;
+	float: left;
+	width: 45%;
+	height: 28%;
+}
+a:hover{
+	color: orange;
+	text-decoration: underline;
+}
+.joinus{
+	width: 100%;
+	height: 850px;
+}
+.joinimg{
+	display: inline-block;
+	position: absolute;	
+	width: 45%;
+	padding-top: 6%;
+	padding-left: 3%;
+	height: 110%;
+}
+.hudojnikimg{
+	border-radius: 234.5px;
+	position: absolute;
+	margin-top: 2%;
+	margin-left: 2%;
+}
+.achivmnentsone{
+	background-image: url('achievements-bg.jpg');
+	height: 1150px;
+}
+.cel11{
+	background: rgba(147, 34, 144, 0.8);
+	width: 100%;
+	height: 1150px;
+	clear: both;
+}
+.celp22{
+	background-image: url('teacher-bg-2.jpg');
+}
+.celp33{
+	background: rgba(252, 127, 12, 0.8); 
+	height: 2890px;	
+}
+.hudojnikimggalery{
+	border-radius: 20px;
+	width: 550px;
+	height:500px;
+	margin-top: 2%;
+	margin-left: 7%;
+	display: inline-block;
+	float: left;
+}
+.hudojnikimggalery1{
+	width: 87%;
+	border-radius: 20px;
+	margin-left: 7%;
+	margin-top: 2%;
+}
+.vys1{
+	width: 100%;
+	height:800px;
+}
+.logovys{
+	width: 900px;
+	padding-top: 12%;
+}
+.achivmnents11{
+	background-image: url('achievements-bg.jpg');
+}
+.cel112{
+	background: rgba(147, 34, 144, 0.8);
+	width: 100%;
+	height: 1750px;
+	clear: both;
+}
+.imgartperm{
+	padding-top: 5%;
+	padding-left: 5%;
+	width: 500px;
+	display: inline-block;
+	float: left;
+}
+.imgartperm1{
+	display: inline-block;
+	float: left;
+	padding-top: 5%;
+	padding-left: 10%;
+	width: 500px;
+	height: 550px;
+}
+.cel2{
+	background: rgba(108, 189, 78, 0.8);
+	height: 600px;
+	
+}
+.achivmnents1{
+	background-image: url('achievements-bg.jpg');
+	height: 600px;
+	
+}
+.logovys1{
+	width: 900px;
+	padding-top: 19%;
+	
+}
+.qw{
+	padding-left: 80px;
+}
+.we{
+	padding-left: 258px;
+}
+.er{
+	padding-left: 490px;
+}
+.ch{
+	padding-top: 7%;
+}
+.ww{
+	padding-top: 7%;
+}
+.et{
+	line-height: 55px; 
+	padding-top: 3%;
+}
+.st{
+	padding-top: 30%;
+}
+.gimg{
+	width: 93%;
+	height: 40%;
+}
+.www{
+	padding-top: 25%;
+}
+.lgs{
+	padding-left: 17%;
+	padding-top: 15%;
+}
+.clp{
+	height: 2650px;
+}
+.lgv{
+	padding-left: 19%;
+	padding-top: 2%;
+	width: 900px;
+}
+.lgvv{
+	padding-left: 16%;
+	padding-top: 2%;
+	width: 900px;
+}
+.login{
+	height: 1000px;
+	width: 100%;
+}
+.cardavto{
+	font-size: 40px;
+}
+.linkavto{
+   color: #000000;
+   padding-left: 2%;
+   text-decoration: underline;
+   top: 500px;
+}
+.linkavto:hover{
+	color: #932290;
+}
+.doplinkpadding{
+	text-align: center;
+	padding-top: 10%;
+}
+.backroundavto{
+	background-image: url('teacher-bg-2.jpg');
+	width: 40%;
+	height: 50%;
+	border-radius: 20px;
+	margin-top: 2%;
+	margin-left: 29%;
+}
+.cardlogin{
+	background: rgba(147, 34, 144, 0.8);
+	border-radius: 20px;
+	width: 100%;
+	height: 100%;
+}
+.hello{
+	background: rgba(147, 34, 144, 0.8);
+}
+.textloginpassword{
+	font-size: 40px;
+    color: #ffffff;
+    line-height: 190px;
+}
+.textloginpasswordpadding{
+	margin-left: 12%;
+	margin-top: 2%;
+}
+.inputlogin{
+	width:30px;
+	position: absolute;
+	border-radius: 20px;
+	line-height: 190px;
+	margin-left:220px;
+}
+.framelogin{
+	border-radius: 20px;
+	width: 250px;
+	height: 30px;
+}
+.buttonentrylk{
+	background: rgba(108, 189, 78, 0.8);
+	font-size: 30px;
+	color: #ffffff;
+	width: 240px;
+	height: 50px;
+	border-radius: 20px;
+	position: absolute;
+	margin-right: 220px;
+}
+.cardregister{
+	background: rgba(147, 34, 144, 0.8);
+	border-radius: 20px;
+	width: 100%;
+	height: 630px;
+}
+.backroundregister{
+	background-image: url('teacher-bg-2.jpg');
+	width: 50%;
+	height: 630px;
+	border-radius: 20px;
+	margin-top: 2%;
+	margin-left: 25%;
+}
+.register{
+	height: 1300px;
+	width: 100%;
+}
+.doplinkpaddingregister{
+	text-align: center;
+	padding-top: 10%;
+}
+.textregisterpadding{
+	margin-left: 12%;
+	margin-top: 2%;
+}
+.textregister{
+	font-size: 40px;
+    color: #ffffff;
+    line-height: 90px;
+}
+.inputregister{
+	width:30px;
+	position: absolute;
+	border-radius: 20px;
+	line-height: 90px;
+	margin-left: 300px;
+}
+.frameregister{
+	border-radius: 20px;
+	width: 250px;
+	height: 30px;
+}
+.frameme{
+	border-radius: 20px;
+	width: 250px;
+	height: 60px;
+}
+.probel{
+	height: 170px;
+}
+.galeryimgindex{
+	border-radius: 20px;
+	width: 46%;
+	margin-top: 1%;
+	margin-left: 3%;
+}
+.vystavkaartperm{
+	text-align: center;
+	color: #09B2FB;
+	display: inline-block;
+	float: left;
+	font-size: 20px;
+	width: 33%;
+	height: 70%
+	margin-top: 20px;
+	
+}
+.afisha-2{
+	color: #932290;
+}
+.imageafisha{
+	width: 90%;
+	height: 200px;
+}
+.margonafisha{
+	margin-top: 1.8%;
+	
+}
